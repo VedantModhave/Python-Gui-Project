@@ -13,7 +13,7 @@ Requirements
 
 Installation
 1. Clone the repository or download the source code:   
-   git clone https://github.com/yourusername/profit-optimizer.git
+   git clone https://github.com/profit-optimizer.git
   
 2. Navigate to the project directory:
    cd profit-optimizer
